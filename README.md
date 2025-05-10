@@ -19,7 +19,7 @@
 
 - 🌱 Growing in **Transitioning into a well-rounded full-stack developer with a strong foundation in both backend and frontend system design.**
 
-- 🤪 Just for fun **Occasionally dabble in the exciting and sometimes unpredictable world of stock trading.**
+- 🤪 Just for fun **Occasionally dabble in the exciting and sometimes unpredictable world of forex trading.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lyrol-lorenzo-210b90226) 
